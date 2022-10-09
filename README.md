@@ -21,12 +21,12 @@
 
 <div align="center">
     <p>Contatos</p>
-    <a href="https://www.instagram.com/"><img src="https://www.svgrepo.com/show/111199/instagram.svg" target="_blank" width="50"></a></img> 
+    <a href="https://www.instagram.com/"><img src="https://www.svgrepo.com/show/111199/instagram.svg" target="_blank" width="50"></a>
     &nbsp&nbsp&nbsp&nbsp
-    <a href="https://www.linkedin.com/in/miguel-antonio-uliana-235102252/"><img src="https://www.svgrepo.com/show/138936/linkedin.svg" target="_blank" width="50"></a></img>
+    <a href="https://www.linkedin.com/in/miguel-antonio-uliana-235102252/"><img src="https://www.svgrepo.com/show/138936/linkedin.svg" target="_blank" width="50"></a>
     <p></p>
     <p>Estamos a todo vapor, waku waku</p>
-    <img src="https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anya-spy-x-family-12.gif"></img>
+    <img src="https://i.pinimg.com/originals/b9/24/e3/b924e35dc0eba4e34318e86481db69eb.gif">
 </div>
 
 <!---
