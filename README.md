@@ -25,7 +25,7 @@
     &nbsp&nbsp&nbsp&nbsp
     <a href="https://www.linkedin.com/in/miguel-antonio-uliana-235102252/"><img src="https://www.svgrepo.com/show/138936/linkedin.svg" target="_blank" width="50"></a>
     <p></p>
-    <p>Estamos a todo vapor, waku waku</p>
+    <p>Estamos a todo vapor</p>
     <img src="https://i.pinimg.com/originals/b9/24/e3/b924e35dc0eba4e34318e86481db69eb.gif">
 </div>
 
