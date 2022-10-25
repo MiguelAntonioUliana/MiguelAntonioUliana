@@ -6,7 +6,7 @@
 <h2>Front-end Progress Check</h2>
 
 <ul>
-    <li>Módulo 1: Conhecimentos básicos de HTML e CSS &#x23f3 Progresso 2/4
+    <li>Módulo 1: Conhecimentos básicos de HTML e CSS &#x23f3 Progresso 4/4
     <li>Módulo 2: Introdução ao framework Bootstrap &#x274C
     <li>Módulo 3: Programação estruturada com JavaScript &#x274C
     <li>Módulo 4: Desenvolvimento web com HMTL, CSS e JavaScript &#x274C
@@ -26,7 +26,6 @@
     <a href="https://www.linkedin.com/in/miguel-antonio-uliana-235102252/"><img src="https://www.svgrepo.com/show/138936/linkedin.svg" target="_blank" width="50"></a>
     <p></p>
     <p>Estamos a todo vapor</p>
-    <img src="https://i.pinimg.com/originals/b6/b4/de/b6b4ded4bd797b093cc9b68aa6fba694.gif">
 </div>
 
 <!---
