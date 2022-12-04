@@ -7,8 +7,8 @@
 
 <ul>
     <li>Módulo 1: Conhecimentos básicos de HTML e CSS &#x2705 
-    <li>Módulo 2: Introdução ao framework Bootstrap &#x274C
-    <li>Módulo 3: Programação estruturada com JavaScript &#x2705 Progresso 1/5
+    <li>Módulo 2: Introdução ao framework Bootstrap &#x2705 
+    <li>Módulo 3: Programação estruturada com JavaScript &#x231b Progresso 1/5
     <li>Módulo 4: Desenvolvimento web com HMTL, CSS e JavaScript &#x274C
 </ul>
 <h2>Back-end Progress Check</h2>
