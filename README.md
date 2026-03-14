@@ -1,6 +1,6 @@
 <h1 align="center">Olá, me chamo Miguel Antonio Uliana, estou entrando no mundo do Desenvolvimento Web agora</h1>
 
-<p>Quase licenciado em química (formando final do ano) pelo <a href="https://vilavelha.ifes.edu.br/" target="_blank">Instituto Federal do Espírito Santo - Vila Velha</a> </p>
+<p>Licenciado em química pelo <a href="https://vilavelha.ifes.edu.br/" target="_blank">Instituto Federal do Espírito Santo - Vila Velha</a> </p>
 <p>Atualmente estudando Análise e Desenvolvimento de Distemas - UNIVIRTUS</a></p>
 
 <h2>Módulo 1</h2>
