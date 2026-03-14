@@ -6,10 +6,10 @@
 <h2>Módulo 1</h2>
 
 <ul>
-    <li>Ferramentas de Desenvolimento Web &#x274C
-    <li>Formação Inicial em Educação a Distância &#x274C
-    <li>Lógica de Programação e Algoritmos &#x274C
-    <li>Produção Textual &#x274C
+    <li>Ferramentas de Desenvolimento Web &#1F51C
+    <li>Formação Inicial em Educação a Distância &#1F51C
+    <li>Lógica de Programação e Algoritmos &#1F51C
+    <li>Produção Textual &#1F51C
 </ul>
 
 <div align="center">
